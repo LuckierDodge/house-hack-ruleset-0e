@@ -11,6 +11,7 @@
 ## Matt's Design Goals
 
 1. Emphasis on Party Teamwork
+2. Worldbuilding: mechanics can be setting-agnostic, but I would love a fun, unique default setting
 
 ## Ideas to Explore
 
