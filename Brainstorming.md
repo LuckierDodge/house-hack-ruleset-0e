@@ -18,11 +18,6 @@
 * Talent Trees
 * Class System vs. Point Buy vs. Hybrid
 * Group Character Sheets/Group Maneuvers (see _Kingdoms and Warfare_)
+	* Build-a-Combo, Talents that provide combo ingredients
 * Lifepath Char Creation
 * Build-a-Spell
-* Action Resolution
-	* 1dX + mod
-	* characteristic die + proficiency die + tool/weapon die
-	* Dice Ladder
-	* d100 Roll-under
-	* d100 Percentile
