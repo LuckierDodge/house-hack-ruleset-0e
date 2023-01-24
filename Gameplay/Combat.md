@@ -27,7 +27,7 @@ Initiative is rolled at the start of each round of combat, and determines which 
 >   Uncontested Action Phase: T2, T1 <br>
 >   Contested Action Phase: T1, T2 <br>
 >   Contingent Action Phase: T2, T1 <br>
->   Round 2: Same as above, but switch order. <br>
+> #### Round 2: Same as above, but switch order. <br>
 
 To resolve initiative, have each side roll 1d20 and add the highest of any modifiers granted to that side by Talents or Traits. The side with the highest result (rerolling for ties) goes first for that round. Upon completion of the round, initiative is rolled again.
 
