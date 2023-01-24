@@ -22,7 +22,7 @@ Initiative is rolled at the start of each round of combat, and determines which 
 > ### Alternative: Initiative only matters for the first round. Subsequent rounds switch order. <br>
 > 
 > For example, given two teams, T1 and T2, with T1 rolling higher initiative: <br>
-> ####Round 1: <br>
+> #### Round 1: <br>
 >   Positioning Phase: T1, T2 <br>
 >   Uncontested Action Phase: T2, T1 <br>
 >   Contested Action Phase: T1, T2 <br>
