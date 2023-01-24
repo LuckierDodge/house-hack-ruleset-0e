@@ -19,7 +19,7 @@ The amount of stamina a character has available depends on their ?Fortitude? cha
 
 Initiative is rolled at the start of each round of combat, and determines which side acts first during each phase of combat. _House Hack_ uses Side Initiative, where every character on a "side" acts simultaneously.
 
-> Alternative: Initiative only matters for the first round. Subsequent rounds switch order.
+> Alternative: Initiative only matters for the first round. Subsequent rounds switch order. <n>
 > Prosposed example. Given two teams, T1 and T2, with T1 rolling higher initiative:
 > Round 1:
 >   Positioning Phase: T1, T2
