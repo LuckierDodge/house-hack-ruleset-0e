@@ -19,6 +19,15 @@ The amount of stamina a character has available depends on their ?Fortitude? cha
 
 Initiative is rolled at the start of each round of combat, and determines which side acts first during each phase of combat. _House Hack_ uses Side Initiative, where every character on a "side" acts simultaneously.
 
+> Alternative: Initiative only matters for the first round. Subsequent rounds switch order.
+> Prosposed example. Given two teams, T1 and T2, with T1 rolling higher initiative:
+> Round 1:
+>   Positioning Phase: T1, T2
+>   Uncontested Action Phase: T2, T1
+>   Contested Action Phase: T1, T2
+>   Contingent Action Phase: T2, T1
+>  Round 2: Same as above, but switch order.  
+
 To resolve initiative, have each side roll 1d20 and add the highest of any modifiers granted to that side by Talents or Traits. The side with the highest result (rerolling for ties) goes first for that round. Upon completion of the round, initiative is rolled again.
 
 ### Handling Race Conditions
