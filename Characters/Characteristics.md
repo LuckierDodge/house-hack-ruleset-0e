@@ -74,3 +74,9 @@ In such a system, we can pretty quickly classify any action and determine the re
 * Trying to heal it with magic? Arcane + Finesse
 * Channeling your god to miraculously heal it? Divine + Finesse
 * Using your magic to deflect a blade? Arcane + Resilience
+
+> oooooh, I love this concept. This is a very fun way to organize attributes. I also appreciate the separation of mental from social. I've been finding the wisdom - intelligence split difficult to separate mechanically, but charisma can definitely be distinct.
+> As for critiques, I'm not sure I quite like how the column bonuses work. I can understand why improving one physical trait would most likely improve others (to some extent), but I struggle with how becoming more physically powerful will also make you mentally and socially powerful. Our stat increase system might need to be slightly more robust.
+> I am also a little hazy with how to precisely categorize an action with an attribute intersection. Is reading a person's facial expression mental, or social? What is the difference between mental power and mental finesse? 
+> I also am not sure about having a separate spellcasting attribute. I kind of like having it attached to standard attributes to help define the magic.
+> Overall, I really like it! It is a very good start for a cool, unique system.
