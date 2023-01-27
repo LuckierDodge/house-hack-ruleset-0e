@@ -81,4 +81,4 @@ In such a system, we can pretty quickly classify any action and determine the re
 > 
 > I am also a little hazy with how to precisely categorize an action with an attribute intersection. Is reading a person's facial expression mental, or social? What is the difference between mental power and mental finesse? And admittedly, I am not sold on having a separate spellcasting attribute. I kind of like having it attached to standard attributes to help define the magic.
 > 
-> Overall, I really like it! It is a very good start for a cool, unique system.
+> Overall, I really like it! It is a good start for a cool, unique system.
