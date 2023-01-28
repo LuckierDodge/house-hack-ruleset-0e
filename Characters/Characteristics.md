@@ -89,8 +89,18 @@ In such a system, we can pretty quickly classify any action and determine the re
 
 > oooooh, I love this concept. This is a very fun way to organize attributes. I also appreciate the separation of mental from social. I've been finding the wisdom - intelligence split difficult to separate mechanically, but charisma can definitely be distinct.
 >
+> RDL: Yeah, wisdom vs. intelligence has always kind of been impossible to disentangle, which in my view is the exact opposite of what you want for a universal action resolution system.
+>
 > As for critiques, I'm not sure I quite like how the column bonuses work. I can understand why improving one physical trait would most likely improve others (to some extent), but I struggle with how becoming more physically powerful will also make you mentally and socially powerful. Our stat increase system might need to be slightly more robust.
+>
+> RDL: What I really like about this setup is 1.) it helps mitigate the "nobody's allowed to talk but the Bard" problem. 2.) Just look at those gradients. They're beautiful. I feel like it reflects the overlap between mind, body, and personality, rather than treating them as wholly separate things. Like, I kinda view the Column Dimension as "how does your character best deal with problems? Direct action, subtlety and care, or just sheer perseverance?". I think there's an argument to be made that Resilience could be folded into the other two, but I kinda like it separate, if nothing else then as a representation for defenses.
 >
 > I am also a little hazy with how to precisely categorize an action with an attribute intersection. Is reading a person's facial expression mental, or social? What is the difference between mental power and mental finesse? And admittedly, I am not sold on having a separate spellcasting attribute. I kind of like having it attached to standard attributes to help define the magic.
 >
+> RDL: I guess my thought is generally "if it involves interacting with another character, it's default social, unless you can think of a reason why it would be something else". So like, intimidating might normally be Social Power, but if you're a yoked Berserker flexing your murder muscles, it can be Physical Power. Reading a person's facial expression would normally be Social Finesse, but if your Sherlock Holmes it might be Mental Finesse.
+> RDL: The difference between Mental Power and Mental Finesse is definitely the trickiest. I feel like that's something that'll take some careful articulation.
+> RDL: Got rid of the separate Spellcasting attributes, also didn't like it. I'm envisioning them more as skills now, that you can add to the appropriate characteristic mod.
+>
 > Overall, I really like it! It is a good start for a cool, unique system.
+>
+> RDL: Yeah, I _really_ like this setup. Like, I've been noodling on that first approach for awhile without ever really feeling like it was working, but this approach is just fucking _neat_.
