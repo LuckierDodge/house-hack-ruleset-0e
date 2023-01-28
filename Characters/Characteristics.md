@@ -1,7 +1,7 @@
 # Characteristics
 
 | Physical           | Mental             |
-| ------------------ | ------------------ |
+|--------------------|--------------------|
 | Physicality (PHYS) | Wits (WITS)        |
 | Fortitude (FORT)   | Will (WILL)        |
 | Finesse (FINE)     | Personality (PERS) |
@@ -40,7 +40,7 @@ Rather than having defined characteristics, it might be interesting to imagine c
 In such a system, we can pretty quickly classify any action and determine the relevant modifiers.
 
 | Dimension 1 | Dimension 2 | Example                                                            |
-| ----------- | ----------- | ------------------------------------------------------------------ |
+|-------------|-------------|--------------------------------------------------------------------|
 | Physical    | Power       | Melee Weapon, Lift a heavy Portcullis                              |
 | Physical    | Finesse     | Lockpick, Finesse Weapon, Bow and Arrow                            |
 | Physical    | Resilience  | Withstanding the effects of a poison                               |
@@ -62,7 +62,7 @@ In such a system, we can pretty quickly classify any action and determine the re
 ### Example Mage
 
 | Characteristics | Power +0 | Finesse +2 | Resilience +1 |
-| --------------- | -------- | ---------- | ------------- |
+|-----------------|----------|------------|---------------|
 | Physical +0     | +0       | +2         | +1            |
 | Mental +2       | +2       | +4         | +3            |
 | Social +1       | +1       | +3         | +2            |
@@ -72,7 +72,7 @@ In such a system, we can pretty quickly classify any action and determine the re
 ### Example Fighter
 
 | Characteristics | Power +2 | Finesse +0 | Resilience +1 |
-| --------------- | -------- | ---------- | ------------- |
+|-----------------|----------|------------|---------------|
 | Physical +2     | +4       | +2         | +3            |
 | Mental +1       | +3       | +1         | +2            |
 | Social +0       | +2       | +0         | +1            |
@@ -80,9 +80,17 @@ In such a system, we can pretty quickly classify any action and determine the re
 ### Example Cleric
 
 | Characteristics | Power +0 | Finesse +1 | Resilience +2 |
-| --------------- | -------- | ---------- | ------------- |
+|-----------------|----------|------------|---------------|
 | Physical +0     | +0       | +1         | +2            |
 | Mental +1       | +1       | +2         | +3            |
 | Social +2       | +2       | +3         | +4            |
 
 * (Divine) +1
+
+> oooooh, I love this concept. This is a very fun way to organize attributes. I also appreciate the separation of mental from social. I've been finding the wisdom - intelligence split difficult to separate mechanically, but charisma can definitely be distinct.
+>
+> As for critiques, I'm not sure I quite like how the column bonuses work. I can understand why improving one physical trait would most likely improve others (to some extent), but I struggle with how becoming more physically powerful will also make you mentally and socially powerful. Our stat increase system might need to be slightly more robust.
+>
+> I am also a little hazy with how to precisely categorize an action with an attribute intersection. Is reading a person's facial expression mental, or social? What is the difference between mental power and mental finesse? And admittedly, I am not sold on having a separate spellcasting attribute. I kind of like having it attached to standard attributes to help define the magic.
+>
+> Overall, I really like it! It is a good start for a cool, unique system.
