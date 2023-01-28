@@ -35,42 +35,54 @@ Rather than having defined characteristics, it might be interesting to imagine c
 
 * Distribute a +2, +1, and +0 between Physical, Mental, and Social
 * Distribute a +2, +1, and +0 between Power, Finesse, and Resilience
-* Some characters gain (Arcane) or (Divine), through magical aptitude or divine favor.
-
-| Example Mage | Power +0 | Finesse +2 | Resilience +1 |
-| ------------ | -------- | ---------- | ------------- |
-| Physical +0  | +0       | +2         | +1            |
-| Mental +2    | +2       | +4         | +3            |
-| Social +1    | +1       | +3         | +2            |
-| (Arcane +1)  | +1       | +3         | +2            |
-| (Divine -)   | -        | -          | -             |
-
-| Example Fighter | Power +2 | Finesse +0 | Resilience +1 |
-| --------------- | -------- | ---------- | ------------- |
-| Physical +2     | +4       | +2         | +3            |
-| Mental +1       | +3       | +1         | +2            |
-| Social +0       | +2       | +0         | +1            |
-| (Arcane -)      | -        | -          | -             |
-| (Divine -)      | -        | -          | -             |
-
-| Example Cleric | Power +0 | Finesse +1 | Resilience +2 |
-| -------------- | -------- | ---------- | ------------- |
-| Physical +0    | +0       | +1         | +2            |
-| Mental +1      | +1       | +2         | +3            |
-| Social +2      | +2       | +3         | +4            |
-| (Arcane -)     | -        | -          | -             |
-| (Divine +1)    | +1       | +2         | +3            |
+* Some characters gain (Arcane) or (Divine), through magical aptitude or divine favor. When used, add their modifier to a roll.
 
 In such a system, we can pretty quickly classify any action and determine the relevant modifiers.
+
+| Dimension 1 | Dimension 2 | Example                                                            |
+| ----------- | ----------- | ------------------------------------------------------------------ |
+| Physical    | Power       | Melee Weapon, Lift a heavy Portcullis                              |
+| Physical    | Finesse     | Lockpick, Finesse Weapon, Bow and Arrow                            |
+| Physical    | Resilience  | Withstanding the effects of a poison                               |
+| Mental      | Power       | Force of Will, Reasoning, Computation                              |
+| Mental      | Finesse     | Insight, Intuition, Perception                                     |
+| Mental      | Resilience  | Resisting psychic damage, demoralizing effects, and magical charms |
+| Social      | Power       | Force of Personality, Intimidation                                 |
+| Social      | Finesse     | Sweet talking, Charm, Persuasion                                   |
+| Social      | Resilience  | Resisting Persuasion                                               |
 
 * Swinging a Great Sword? Physical + Power
 * Shooting a Bow and Arrow? Physical + Finesse
 * Perception? Mental + Finesse
 * Picking a lock? Physical + Finesse.
-* Calling on your God to help you divine the best course of action? Divine + Finesse.
-* Intimidation check? Physical + Power vs. Social + Resilience.
-* Casting a Fireball? Arcane + Power
-* Trying to figure out how to set a broken bone? Mental + Finesse
-* Trying to heal it with magic? Arcane + Finesse
-* Channeling your god to miraculously heal it? Divine + Finesse
-* Using your magic to deflect a blade? Arcane + Resilience
+* Physical Intimidation? Physical + Power vs. Social + Resilience.
+* Trying to figure out how to set a broken bone by hand? Mental + Finesse
+* Withstanding the effects of a poison? Physical + Resilience
+
+### Example Mage
+
+| Characteristics | Power +0 | Finesse +2 | Resilience +1 |
+| --------------- | -------- | ---------- | ------------- |
+| Physical +0     | +0       | +2         | +1            |
+| Mental +2       | +2       | +4         | +3            |
+| Social +1       | +1       | +3         | +2            |
+
+* (Arcane) +1
+
+### Example Fighter
+
+| Characteristics | Power +2 | Finesse +0 | Resilience +1 |
+| --------------- | -------- | ---------- | ------------- |
+| Physical +2     | +4       | +2         | +3            |
+| Mental +1       | +3       | +1         | +2            |
+| Social +0       | +2       | +0         | +1            |
+
+### Example Cleric
+
+| Characteristics | Power +0 | Finesse +1 | Resilience +2 |
+| --------------- | -------- | ---------- | ------------- |
+| Physical +0     | +0       | +1         | +2            |
+| Mental +1       | +1       | +2         | +3            |
+| Social +2       | +2       | +3         | +4            |
+
+* (Divine) +1
