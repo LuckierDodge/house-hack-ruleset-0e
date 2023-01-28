@@ -51,14 +51,6 @@ In such a system, we can pretty quickly classify any action and determine the re
 | Social      | Finesse     | Sweet talking, Charm, Persuasion                                   |
 | Social      | Resilience  | Resisting Persuasion                                               |
 
-* Swinging a Great Sword? Physical + Power
-* Shooting a Bow and Arrow? Physical + Finesse
-* Perception? Mental + Finesse
-* Picking a lock? Physical + Finesse.
-* Physical Intimidation? Physical + Power vs. Social + Resilience.
-* Trying to figure out how to set a broken bone by hand? Mental + Finesse
-* Withstanding the effects of a poison? Physical + Resilience
-
 ### Example Mage
 
 | Characteristics | Power +0 | Finesse +2 | Resilience +1 |
