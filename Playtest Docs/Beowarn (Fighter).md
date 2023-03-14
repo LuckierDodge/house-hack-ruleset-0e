@@ -10,25 +10,26 @@
 
 * Hit Points 15
 * Stamina 4
-* Movement 4
+* Movement 3
 * DR 4
 
 ## Equipment
 
 * **Longsword**
 	* Speed 1
-	* One-handed Melee Weapon Attack (Physical Power/Physical Finesse, Piercing/Slashing 3)
-	* Two-handed Melee Weapon Attack (Physical Power/Physical Finesse, Piercing/Slashing 6, +1 Advantage)
-	* Parry (Physical Finesse)
+	* One-handed Melee Weapon Attack (Physical Finesse, Piercing/Slashing 3)
+	* Two-handed Melee Weapon Attack (Physical Finesse, Piercing/Slashing 6)
+	* Parry (Physical Power)
+	* Proficient: +1 Advantage
 * **Kite Shield**
 	* Speed 1
-	* Block (Physical Power, Max 3, +2 Advantage)
-		* Defense: 1d10
+	* Block (Physical Resilience, Max 3, +2 Advantage)
 	* Melee Weapon Attack (Physical Power, Bludgeoning 2)
-		* Attack: 1d10
-		* Damage: Bludgeoning 6
 * **Chain Mail**
 	* DR 4
 	* -1 Move Speed
 
 ## Talents and Traits
+
+* **Blade Proficiency**: You gain an **Advantage** on all checks when using Bladed Weapons.
+* **Medium Armor Proficiency**: You can wear Medium or Light Armor without Penalty.

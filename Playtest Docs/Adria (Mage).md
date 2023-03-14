@@ -10,18 +10,19 @@
 
 * Hit Points 12
 * Stamina 3
-* Movement 5
+* Movement 4
 
 ## Equipment
 
 * **Mage Staff**
 	* Speed 1
-	* One-handed Melee Weapon Attack (Physical Power/Physical Finesse, Bludgeoning 2)
-	* Two-handed Melee Weapon Attack (Physical Power/Physical Finesse, Bludgeoning 4, +1 Advantage)
-	* Parry (Physical Finesse, Fragile)
+	* One-handed Melee Weapon Attack (Physical Finesse, Bludgeoning 2)
+	* Two-handed Melee Weapon Attack (Physical Finesse, Bludgeoning 4)
+	* Parry (Physical Power, Fragile)
 
 ## Talents and Traits
 
 * **Arcane Lance**
 	* Magic Ranged Weapon Attack (Mental Finesse, Piercing 4/Energy 2, 1 Stamina, Range 10 sq.)
 	* Uses a _Mage Staff_
+* **Lore Proficiency**: you gain an **Advantage** on all checks related to history or arcane knowledge.
