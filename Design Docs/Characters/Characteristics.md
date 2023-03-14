@@ -93,6 +93,7 @@ In such a system, we can pretty quickly classify any action and determine the re
 > RDL: I guess my thought is generally "if it involves interacting with another character, it's default social, unless you can think of a reason why it would be something else". So like, intimidating might normally be Social Power, but if you're a yoked Berserker flexing your murder muscles, it can be Physical Power. Reading a person's facial expression would normally be Social Finesse, but if your Sherlock Holmes it might be Mental Finesse.
 > RDL: The difference between Mental Power and Mental Finesse is definitely the trickiest. I feel like that's something that'll take some careful articulation.
 > RDL: Got rid of the separate Spellcasting attributes, also didn't like it. I'm envisioning them more as skills now, that you can add to the appropriate characteristic mod.
+>> I figured we can handle this directly with the class/spell mechanics. Hell, I'm tempted to divide spells by what mental attribute they use. i.e. a "shield" spell uses mental Resilience and a "fireball" spell uses mental power. 
 >
 > Overall, I really like it! It is a good start for a cool, unique system.
 >
