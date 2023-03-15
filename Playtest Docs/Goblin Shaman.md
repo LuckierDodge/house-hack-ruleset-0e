@@ -25,7 +25,7 @@
 | ----------------- | ----- | ---------------------------- | ----------------- | ----------- | -------------------- | ------------------------------------------------- | ---------------------- |
 | Shaman's Staff    | 1     | Melee Weapon Attack          | 1 Action          |             | 1d6 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
 |                   | 1     | 2-handed Melee Weapon Attack | 1 Action          |             | 2d6 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
-| -> Shaman's Curse | 1     | Ranged Arcane Bane           | 1 Action, 1 Magic |             | 1d8 MenFin vs MenRes | Curse 3 (2 Necrotic Damage, Disadvantage on Phys) | Persistent, Diminish 1 |
+| -> Shaman's Curse | 1     | Ranged Arcane Bane           | 1 Action, 1 Magic |             | 1d8 MenFin vs MenRes | Curse 3 (Necrotic Damage, Disadvantage on Phys) | Persistent, Diminish 1 |
 
 ## Defenses
 
