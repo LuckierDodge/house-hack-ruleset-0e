@@ -8,25 +8,31 @@
 | Mental 0        | 0 (d2)  | 2 (d6)    | 0 (d2)       |
 | Social 0        | 0 (d2)  | 2 (d6)    | 0 (d2)       |
 
-* Hit Points 11
-* Movement 4
+| Stat            | Value |
+| --------------- | ----- |
+| Hit Points (HP) | 6     |
+| Movement Speed  | 4     |
 
 ## Equipment
 
-**Goblin Dagger**
+* **Goblin Dagger**
+* **Goblin Short Bow**
 
-* Speed 3
-* Melee Weapon Attack (Physical Finesse, Piercing/Slashing 1)
-* Thrown Weapon Attack (Physical Finesse, Piercing/Slashing 1)
-* Parry (Physical Power)
+## Attacks
 
-**Goblin Short Bow**
+| Item/Talent      | Speed | Action               | Cost     | Proficient? | Attack      | Damage                              | Properties  |
+| ---------------- | ----- | -------------------- | -------- | ----------- | ----------- | ----------------------------------- | ----------- |
+| Goblin Dagger    | 3     | Melee Weapon Attack  | 1 Action |             | 1d8 PhysFin | 2 Piercing/Slashing (1 + PhysPow 1) |             |
+| Goblin Short Bow | 2     | Ranged Weapon Attack | 1 Action |             | 1d8 PhysFin | 5 Piercing (2 + PhysFin 3)          | Range 5 sq. |
 
-* Speed 2
-* Ranged Attack (Physical Finesse, Piercing 2)
-* Parry (Physical Finesse, Fragile)
-* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
+## Defenses
+
+| Item/Talent      | Speed | Action | Cost     | Proficient? | Defense     | Properties |
+| ---------------- | ----- | ------ | -------- | ----------- | ----------- | ---------- |
+| Goblin Dagger    | 3     | Parry  | 1 Action |             | 1d4 PhysPow |            |
+| Goblin Short Bow | 2     | Parry  | 1 Action |             | 1d4 PhysPow | Fragile    |
+| Dodge            | 1     | Dodge  | 1 Action |             | 1d8 PhysFin |            |
 
 ## Talents and Traits
 
-**Hit and Run**: If this Goblin successfully hits with it's Dagger or Shortbow, it gains a Free Move Surge. This movement doesn't Trigger Attacks of Opportunity.
+* **Hit and Run**: If this Goblin successfully hits with it's Dagger or Shortbow, it gains a Free Move Surge. This movement doesn't Trigger Attacks of Opportunity.

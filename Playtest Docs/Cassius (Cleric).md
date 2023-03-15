@@ -8,27 +8,49 @@
 | Mental 1        | 1 (d4)  | 2 (d6)    | 3 (d8)       |
 | Social 2        | 2 (d6)  | 3 (d8)    | 4 (d10)      |
 
-* Hit Points 15
-* Stamina 5
-* Movement 3
-* DR 1
+| Stat                  | Value |
+| --------------------- | ----- |
+| Hit Points (HP)       | 15    |
+| Stamina               | 5     |
+| Movement Speed        | 3     |
+| Damage Reduction (DR) | 1     |
+| Favor                 | 3     |
 
 ## Equipment
 
 * **Short Bow**
-	* Speed 2
-	* Ranged Attack (Physical Finesse, Piercing 2)
-	* Parry (Physical Power, Fragile)
-	* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
 	* Arrows: 10
 * **Leather Armor**
 	* Light Armor
 	* DR 2
 
+## Attacks
+
+| Item/Talent | Speed | Action               | Cost     | Proficient? | Attack      | Damage                     | Properties             |
+| ----------- | ----- | -------------------- | -------- | ----------- | ----------- | -------------------------- | ---------------------- |
+| Short Bow   | 2     | Ranged Weapon Attack | 1 Action |             | 1d4 PhysFin | 3 Piercing (2 + PhysFin 1) | Range 5 sq, Ammunition |
+
+## Miracles
+
+| Item/Talent        | Speed | Action                | Cost               | Effect                                                                                                                                                     |
+| ------------------ | ----- | --------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Divine Inspiration | 1     | Ranged Miracle Boon   | 1 Action, 1+ Favor | Roll 1d10 SocRes dice for each Favor invested. Allies who can hear you can replace a roll with one of your rolls. The roll is then removed from your pool. |
+| Healing Touch      | 1     | Touch Miracle Healing | 1 Action, 1+ Favor | Heal target MenFin 2 * Favor invested.                                                                                                                     |
+
+## Defenses
+
+| Item/Talent | Speed | Action | Cost     | Proficient? | Defense     | Properties |
+| ----------- | ----- | ------ | -------- | ----------- | ----------- | ---------- |
+| Short Bow   | 1     | Parry  | 1 Action |             | 1d2 PhysPow | Fragile    |
+| Dodge       | 1     | Dodge  | 1 Action |             | 1d4 PhysFin |            |
+
 ## Talents and Traits
 
 * **Divine Inspiration**
-	* Miracle Ranged Boon (Social Resilience, 1 Stamina per Roll)
-	* Allies who can hear you can choose to replace one of their rolls with your Social Resilience roll. The roll is then discarded.
-	* When you use this ability, you can spend multiple Stamina to roll multiple times as part of a single action.
-* **Religion Proficiency**: you gain an **Advantage** on all checks related to Religious knowledge or performing Rites and Rituals.
+	* Miracle Ranged Boon
+	* When you use this Talent, roll 1d10 Social Resilience dice for each Favor invested
+	* Allies who can hear you can choose to replace one of their rolls with a roll from your pool, which is then discarded.
+* **Healing Hands**
+	* Miracle Touch Healing
+	* You can spend 1 action to heal an amount of Hit Points equal to your Mental Finesse times the amount of Favor invested
+	* Heal: 2 x Favor

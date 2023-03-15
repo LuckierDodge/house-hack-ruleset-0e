@@ -4,6 +4,11 @@ During combat, each character has a limited set of Actions they can use (for mos
 
 Each Round of combat is divided into 2 phases: _Action Declaration_ and _Action Resolution_. In the _Action Declaration_ phase, each character declares the actions they intend to take. In the _Action Resolution_ phase, each of the declared actions is resolved.
 
+* Typically, the Order of Resolution is
+	* Resolve Free Movement
+	* Resolve Independent or Uncontested Actions
+	* Resolve Contested Actions
+
 ## Movement
 
 Every player has a default speed, measured in squares (each square corresponds to about 1.5 meters). Most PCs have a default Move Speed of 4. They can spend an action to **Move**, moving up to their speed.
@@ -33,6 +38,10 @@ If you have a free hand, you can make a **Physical Power**-based **Weapon Attack
 
 * If you hit with a Melee Weapon Attack, your damage is equal to the Weapon's Base Damage, plus your **Physical Power Value**.
 * If you hit with a Ranged Weapon Attack, your damage is equal to the Weapon's Base Damage, plus your **Physical Finesse Value**.
+
+### Two-handed Weapons
+
+Attacking with a weapon with 2 hands uses 2 Actions, but grants Advantage on the attack.
 
 ## Defensive Actions
 
@@ -90,110 +99,86 @@ If you are wielding multiple items, the Speed applies individually for each Item
 
 ### Example Weapons
 
-**Zweihander**
-
-* Size: Medium
-* Speed 1
-* Two-handed Melee Weapon Attack (Physical Finesse, Piercing/Slashing 8)
-* Parry (Physical Power)
-
-**Longsword**
-
-* Size: Medium
-* Speed 1
-* One-handed Melee Weapon Attack (Physical Finesse, Piercing/Slashing 3)
-* Two-handed Melee Weapon Attack (Physical Finesse, Piercing/Slashing 6)
-* Parry (Physical Power)
-
-**Shortsword**
-
-* Size: Small
-* Speed 2
-* One-handed Melee Weapon Attack (Physical Finesse, Piercing/Slashing 2)
-* Two-handed Melee Weapon Attack (Physical Finesse, Piercing/Slashing 4)
-* Parry (Physical Power)
-
-**Dagger**
-
-* Size: Tiny
-* Speed 3
-* Melee Weapon Attack (Physical Finesse, Piercing/Slashing 1)
-* Thrown Weapon Attack (Physical Finesse, Piercing/Slashing 1)
-* Parry (Physical Power)
-
-**Short Bow**
-
-* Size: Small
-* Speed 2
-* Ranged Attack (Physical Finesse, Piercing 2)
-* Parry (Physical Power, Fragile)
-* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
-
-**Long Bow**
-
-* Size: Medium
-* Speed 1
-* Ranged Attack (Physical Finesse, Piercing 4)
-* Parry (Physical Power, Fragile)
-* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
-
-**Cross Bow**
-
-* Size: Medium
-* Speed 1
-* Ranged Attack (Physical Finesse, Piercing 6)
-* Parry (Physical Power, Fragile)
-* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
+* **Zweihander**
+	* Size: Medium
+	* Speed 1
+	* Melee Weapon Attack (Physical Finesse, Piercing/Slashing 4, 2-handed)
+	* Parry (Physical Power)
+	* 1-handed attacks have Disadvantage
+* **Longsword**
+	* Size: Medium
+	* Speed 1
+	* Melee Weapon Attack (Physical Finesse, Piercing/Slashing 3)
+	* Parry (Physical Power)
+	* 2-handed attacks have Advantage
+* **Shortsword**
+	* Size: Small
+	* Speed 2
+	* Melee Weapon Attack (Physical Finesse, Piercing/Slashing 2)
+	* 2-handed attacks have Advantage
+	* Parry (Physical Power)
+* **Dagger**
+	* Size: Tiny
+	* Speed 3
+	* Melee Weapon Attack (Physical Finesse, Piercing/Slashing 1)
+	* Thrown Weapon Attack (Physical Finesse, Piercing/Slashing 1)
+	* Parry (Physical Power)
+* **Short Bow**
+	* Size: Small
+	* Speed 2
+	* Ranged Attack (Physical Finesse, Piercing 2)
+	* Parry (Physical Power, Fragile)
+	* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
+* **Long Bow**
+	* Size: Medium
+	* Speed 1
+	* Ranged Attack (Physical Finesse, Piercing 4)
+	* Parry (Physical Power, Fragile)
+	* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
+* **Cross Bow**
+	* Size: Medium
+	* Speed 1
+	* Ranged Attack (Physical Finesse, Piercing 6)
+	* Parry (Physical Power, Fragile)
+	* Aim: Grants **Advantage** on next Ranged Attack with this weapon.
 
 ### Example Shields
 
-**Tower Shield**
-
-* Size: Medium
-* Speed 1
-* Block (Physical Resilience, Max 5, +3 Advantage)
-* Melee Weapon Attack (Physical Power, Bludgeoning 2)
-
-**Kite Shield**
-
-* Size: Medium
-* Speed 1
-* Block (Physical Resilience, Max 3, +2 Advantage)
-* Melee Weapon Attack (Physical Power, Bludgeoning 2)
-
-**Round Wooden Shield**
-
-* Size: Small
-* Speed 2
-* Block (Physical Resilience, Max 2, +1 Advantage)
-* Melee Weapon Attack (Physical Power, Bludgeoning 1)
-
-**Buckler**
-
-* Size: Tiny
-* Speed 3
-* Parry (Physical Power)
-* Block (Physical Resilience, Max 1)
-* Melee Weapon Attack (Physical Power, Bludgeoning 1)
+* **Tower Shield**
+	* Size: Medium
+	* Speed 1
+	* Block (Physical Resilience, Max 5)
+	* Melee Weapon Attack (Physical Power, Bludgeoning 2)
+* **Kite Shield**
+	* Size: Medium
+	* Speed 1
+	* Block (Physical Resilience, Max 3)
+	* Melee Weapon Attack (Physical Power, Bludgeoning 2)
+* **Round Wooden Shield**
+	* Size: Small
+	* Speed 1
+	* Block (Physical Resilience, Max 2)
+	* Melee Weapon Attack (Physical Power, Bludgeoning 1)
+* **Buckler**
+	* Size: Tiny
+	* Speed 3
+	* Parry (Physical Power)
+	* Block (Physical Resilience, Max 1)
+	* Melee Weapon Attack (Physical Power, Bludgeoning 1)
 
 ## Example Armor
 
-**Leather Armor**
-
-* Light Armor
-* Size: Medium
-* DR 2
-
-**Chain Mail**
-
-* Medium Armor
-* Size: Medium
-* DR 4
-* -1 Move Speed
-
-**Plate Armor**
-
-* Heavy Armor
-* Size: Medium
-* DR 6
-* -2 Move Speed
+* **Leather Armor**
+	* Light Armor
+	* Size: Medium
+	* DR 2
+* **Chain Mail**
+	* Medium Armor
+	* Size: Medium
+	* DR 4
+	* -1 Move Speed
+* **Plate Armor**
+	* Heavy Armor
+	* Size: Medium
+	* DR 6
+	* -2 Move Speed
