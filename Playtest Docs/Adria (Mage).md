@@ -10,7 +10,8 @@
 
 | Stat            | Value |
 | --------------- | ----- |
-| Hit Points (HP) | 12    |
+| Morale          | 7     |
+| Health          | 5     |
 | Stamina         | 3     |
 | Movement Speed  | 4     |
 | Magic           | 3     |

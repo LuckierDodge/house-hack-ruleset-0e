@@ -10,7 +10,8 @@
 
 | Stat                  | Value |
 | --------------------- | ----- |
-| Hit Points (HP)       | 15    |
+| Morale                | 8     |
+| Health                | 7     |
 | Stamina               | 5     |
 | Movement Speed        | 3     |
 | Damage Reduction (DR) | 1     |

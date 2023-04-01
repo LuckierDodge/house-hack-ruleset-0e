@@ -10,7 +10,8 @@
 
 | Stat            | Value |
 | --------------- | ----- |
-| Hit Points (HP) | 6     |
+| Morale          | 6     |
+| Health          | 5     |
 | Movement Speed  | 4     |
 | Stamina         | 1     |
 | Magic           | 2     |
@@ -23,9 +24,9 @@
 
 | Item/Talent       | Action                       | Cost              | Proficient? | Attack               | Damage                                            | Properties             |
 | ----------------- | ---------------------------- | ----------------- | ----------- | -------------------- | ------------------------------------------------- | ---------------------- |
-| Shaman's Staff    | Melee Weapon Attack          | 1 Action          |             | 1d6 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
-|                   | 2-handed Melee Weapon Attack | 1 Action          |             | 1d8 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
-| -> Shaman's Curse | Ranged Arcane Bane           | 1 Action, 1 Magic |             | 1d8 MenFin vs MenRes | Curse 3 (Necrotic Damage, Disadvantage on Phys) | Persistent, Diminish 1 |
+| Shaman's Staff    | Melee Weapon Attack          | 1 Action          |             | 1d6 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)                     |                        |
+|                   | 2-handed Melee Weapon Attack | 1 Action          |             | 1d8 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)                     |                        |
+| -> Shaman's Curse | Ranged Arcane Bane           | 1 Action, 1 Magic |             | 1d8 MenFin vs MenRes | Curse 3 (Necrotic Damage, Disadvantage on Phys)   | Persistent, Diminish 1 |
 
 ## Defenses
 

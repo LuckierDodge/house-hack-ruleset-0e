@@ -16,8 +16,8 @@ Characters get 1 Free Move Action per round.
 
 ## Health and Morale
 
-* You have Morale equal to your **Mental Resilience** times your Level (minimum 1).
-* You have Health equal to your **Physical Resilience** plus your Level.
+* You have Morale equal to 5 + **Mental Resilience** times your Level.
+* You have Health equal to 5 + **Physical Resilience**.
 * Unless specified otherwise, damage is first applied to your Morale. Damage that reduces your Morale to 0 does not roll over to Health, and Morale can't be negative.
 * If your Morale is at 0, you suffer a **Disadvantage** on all checks, and future damage is applied to Health.
 * If your Health is at 0, you are unconscious. If you reach negative Health equal to your maximum Health, you are dead.

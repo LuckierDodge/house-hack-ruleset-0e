@@ -8,12 +8,13 @@
 | Mental 1        | 3 (d8)  | 1 (d4)    | 2 (d6)       |
 | Social 0        | 2 (d6)  | 0 (d2)    | 1 (d4)       |
 
-| Stat            | Value |
-| --------------- | ----- |
-| Hit Points (HP) | 15    |
-| Stamina         | 4     |
-| Movement Speed  | 3     |
-| DR              | 4     |
+| Stat                  | Value |
+| --------------------- | ----- |
+| Morale                | 7     |
+| Health                | 8     |
+| Stamina               | 4     |
+| Movement Speed        | 3     |
+| Damage Reduction (DR) | 4     |
 
 ## Equipment
 

@@ -10,7 +10,8 @@
 
 | Stat            | Value |
 | --------------- | ----- |
-| Hit Points (HP) | 6     |
+| Morale          | 5     |
+| Health          | 6     |
 | Movement Speed  | 4     |
 
 ## Equipment
