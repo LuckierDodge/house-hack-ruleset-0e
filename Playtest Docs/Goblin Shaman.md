@@ -21,18 +21,18 @@
 
 ## Attacks
 
-| Item/Talent       | Speed | Action                       | Cost              | Proficient? | Attack               | Damage                                            | Properties             |
-| ----------------- | ----- | ---------------------------- | ----------------- | ----------- | -------------------- | ------------------------------------------------- | ---------------------- |
-| Shaman's Staff    | 1     | Melee Weapon Attack          | 1 Action          |             | 1d6 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
-|                   | 1     | 2-handed Melee Weapon Attack | 1 Action          |             | 2d6 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
-| -> Shaman's Curse | 1     | Ranged Arcane Bane           | 1 Action, 1 Magic |             | 1d8 MenFin vs MenRes | Curse 3 (Necrotic Damage, Disadvantage on Phys) | Persistent, Diminish 1 |
+| Item/Talent       | Action                       | Cost              | Proficient? | Attack               | Damage                                            | Properties             |
+| ----------------- | ---------------------------- | ----------------- | ----------- | -------------------- | ------------------------------------------------- | ---------------------- |
+| Shaman's Staff    | Melee Weapon Attack          | 1 Action          |             | 1d6 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
+|                   | 2-handed Melee Weapon Attack | 1 Action          |             | 1d8 PhysFin          | 2 Bludgeoning (2 + PhysPow 0)            |                        |
+| -> Shaman's Curse | Ranged Arcane Bane           | 1 Action, 1 Magic |             | 1d8 MenFin vs MenRes | Curse 3 (Necrotic Damage, Disadvantage on Phys) | Persistent, Diminish 1 |
 
 ## Defenses
 
-| Item/Talent      | Speed | Action | Cost     | Proficient? | Defense     | Properties |
-| ---------------- | ----- | ------ | -------- | ----------- | ----------- | ---------- |
-| Goblin Dagger    | 1     | Parry  | 1 Action |             | 1d2 PhysPow |            |
-| Dodge            | 1     | Dodge  | 1 Action |             | 1d6 PhysFin |            |
+| Item/Talent      | Action | Cost     | Proficient? | Defense     | Properties |
+| ---------------- | ------ | -------- | ----------- | ----------- | ---------- |
+| Goblin Dagger    | Parry  | 1 Action |             | 1d2 PhysPow |            |
+| Dodge            | Dodge  | 1 Action |             | 1d6 PhysFin |            |
 
 ## Talents and Traits
 

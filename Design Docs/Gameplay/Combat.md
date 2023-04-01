@@ -13,7 +13,7 @@ Combat is divided into 4 distinct phases, which repeat until the action is resol
 
 By default, a Character can take one action in each of the 4 phases of combat. A character also has the option to burn Stamina to gain additional actions during a phase. For instance, a character might decide to use Stamina to gain extra movement during the _Positioning_ phase, or to make a second attack during the _Contested Actions_ phase.
 
-The amount of stamina a character has available depends on their ?Fortitude? characteristic, and they can regain Stamina by taking the _Recover_ action during the _Uncontested Actions_ phase.
+The amount of stamina a character has available depends on their Physical Resilience characteristic, and they can regain Stamina by taking the _Recover_ action during the _Uncontested Actions_ phase.
 
 ## Initiative
 

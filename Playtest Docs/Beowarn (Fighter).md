@@ -25,19 +25,19 @@
 
 ## Attacks
 
-| Item/Talent | Speed | Action                       | Cost      | Proficient? | Attack      | Damage                               | Properties |
-| ----------- | ----- | ---------------------------- | --------- | ----------- | ----------- | ------------------------------------ | ---------- |
-| Longsword   | 1     | Melee Weapon Attack          | 1 Action  | Y           | 2d6 PhysFin | 7 Piercing/Slashing (3 + PhysPow 4)  |            |
-| -> All-in   | 1     | 2-handed Melee Weapon Attack | 2 Actions | Y           | 3d6 PhysFin | 10 Piercing/Slashing (6 + PhysPow 4) | 2-handed   |
-| Kite Shield | 1     | Melee Weapon Attack          | 1 Action  |             | d10 PhysPow | 6 Bludgeoning (2 + 4 PhysPow)        |            |
+| Item/Talent | Action                       | Cost      | Proficient? | Attack      | Damage                               | Properties |
+| ----------- | ---------------------------- | --------- | ----------- | ----------- | ------------------------------------ | ---------- |
+| Longsword   | Melee Weapon Attack          | 1 Action  | Y           | 2d6 PhysFin | 7 Piercing/Slashing (3 + PhysPow 4)  |            |
+| -> All-in   | 2-handed Melee Weapon Attack | 1 Action	 | Y           | 2d8 PhysFin | 11 Piercing/Slashing (3 + PhysPow 8) | 2-handed   |
+| Kite Shield | Melee Weapon Attack          | 1 Action  |             | d10 PhysPow | 6 Bludgeoning (2 + 4 PhysPow)        |            |
 
 ## Defenses
 
-| Item/Talent | Speed | Action | Cost     | Proficient? | Defense      | Properties |
-| ----------- | ----- | ------ | -------- | ----------- | ------------ | ---------- |
-| Longsword   | 1     | Parry  | 1 Action | Y           | 2d10 PhysPow |            |
-| Kite Shield | 1     | Block  | 1 Action |             | 1d8 PhysRes  | Max 3      |
-| Dodge       | 1     | Dodge  | 1 Action |             | 1d6 PhysFin  |            |
+| Item/Talent | Action | Cost     | Proficient? | Defense      | Properties |
+| ----------- | ------ | -------- | ----------- | ------------ | ---------- |
+| Longsword   | Parry  | 1 Action | Y           | 2d10 PhysPow |            |
+| Kite Shield | Block  | 1 Action |             | 1d8 PhysRes  |            |
+| Dodge       | Dodge  | 1 Action |             | 1d6 PhysFin  |            |
 
 ## Talents and Traits
 

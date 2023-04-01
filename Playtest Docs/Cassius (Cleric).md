@@ -26,23 +26,23 @@
 
 ## Attacks
 
-| Item/Talent | Speed | Action               | Cost     | Proficient? | Attack      | Damage                     | Properties             |
-| ----------- | ----- | -------------------- | -------- | ----------- | ----------- | -------------------------- | ---------------------- |
-| Short Bow   | 2     | Ranged Weapon Attack | 1 Action |             | 1d4 PhysFin | 3 Piercing (2 + PhysFin 1) | Range 5 sq, Ammunition |
+| Item/Talent | Action               | Cost     | Proficient? | Attack      | Damage                     | Properties             |
+| ----------- | -------------------- | -------- | ----------- | ----------- | -------------------------- | ---------------------- |
+| Short Bow   | Ranged Weapon Attack | 1 Action |             | 1d4 PhysFin | 3 Piercing (2 + PhysFin 1) | Range 5 sq, Ammunition |
 
 ## Miracles
 
-| Item/Talent        | Speed | Action                | Cost               | Effect                                                                                                                                                     |
-| ------------------ | ----- | --------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Divine Inspiration | 1     | Ranged Miracle Boon   | 1 Action, 1+ Favor | Roll 1d10 SocRes dice for each Favor invested. Allies who can hear you can replace a roll with one of your rolls. The roll is then removed from your pool. |
-| Healing Touch      | 1     | Touch Miracle Healing | 1 Action, 1+ Favor | Heal target MenFin 2 * Favor invested.                                                                                                                     |
+| Item/Talent        | Action                | Cost               | Effect                                                                                                                                                     |
+| ------------------ | --------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Divine Inspiration | Ranged Miracle Boon   | 1 Action, 1+ Favor | Roll 1d10 SocRes dice for each Favor invested. Allies who can hear you can replace a roll with one of your rolls. The roll is then removed from your pool. |
+| Healing Touch      | Touch Miracle Healing | 1 Action, 1+ Favor | Heal target MenFin 2 * Favor invested.                                                                                                                     |
 
 ## Defenses
 
-| Item/Talent | Speed | Action | Cost     | Proficient? | Defense     | Properties |
-| ----------- | ----- | ------ | -------- | ----------- | ----------- | ---------- |
-| Short Bow   | 1     | Parry  | 1 Action |             | 1d2 PhysPow | Fragile    |
-| Dodge       | 1     | Dodge  | 1 Action |             | 1d4 PhysFin |            |
+| Item/Talent | Action | Cost     | Proficient? | Defense     | Properties |
+| ----------- | ------ | -------- | ----------- | ----------- | ---------- |
+| Short Bow   | Parry  | 1 Action |             | 1d2 PhysPow | Fragile    |
+| Dodge       | Dodge  | 1 Action |             | 1d4 PhysFin |            |
 
 ## Talents and Traits
 

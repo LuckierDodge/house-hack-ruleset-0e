@@ -20,18 +20,18 @@
 
 ## Attacks
 
-| Item/Talent      | Speed | Action               | Cost     | Proficient? | Attack      | Damage                              | Properties  |
-| ---------------- | ----- | -------------------- | -------- | ----------- | ----------- | ----------------------------------- | ----------- |
-| Goblin Dagger    | 3     | Melee Weapon Attack  | 1 Action |             | 1d8 PhysFin | 2 Piercing/Slashing (1 + PhysPow 1) |             |
-| Goblin Short Bow | 2     | Ranged Weapon Attack | 1 Action |             | 1d8 PhysFin | 5 Piercing (2 + PhysFin 3)          | Range 5 sq. |
+| Item/Talent      | Action               | Cost     | Proficient? | Attack      | Damage                              | Properties  |
+| ---------------- | -------------------- | -------- | ----------- | ----------- | ----------------------------------- | ----------- |
+| Goblin Dagger    | Melee Weapon Attack  | 1 Action |             | 1d8 PhysFin | 2 Piercing/Slashing (1 + PhysPow 1) |             |
+| Goblin Short Bow | Ranged Weapon Attack | 1 Action |             | 1d8 PhysFin | 5 Piercing (2 + PhysFin 3)          | Range 5 sq. |
 
 ## Defenses
 
-| Item/Talent      | Speed | Action | Cost     | Proficient? | Defense     | Properties |
-| ---------------- | ----- | ------ | -------- | ----------- | ----------- | ---------- |
-| Goblin Dagger    | 3     | Parry  | 1 Action |             | 1d4 PhysPow |            |
-| Goblin Short Bow | 2     | Parry  | 1 Action |             | 1d4 PhysPow | Fragile    |
-| Dodge            | 1     | Dodge  | 1 Action |             | 1d8 PhysFin |            |
+| Item/Talent      | Action | Cost     | Proficient? | Defense     | Properties |
+| ---------------- | ------ | -------- | ----------- | ----------- | ---------- |
+| Goblin Dagger    | Parry  | 1 Action |             | 1d4 PhysPow |            |
+| Goblin Short Bow | Parry  | 1 Action |             | 1d4 PhysPow | Fragile    |
+| Dodge            | Dodge  | 1 Action |             | 1d8 PhysFin |            |
 
 ## Talents and Traits
 

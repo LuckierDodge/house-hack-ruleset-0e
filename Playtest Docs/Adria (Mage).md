@@ -21,18 +21,18 @@
 
 ## Attacks
 
-| Item/Talent     | Speed | Action                       | Cost               | Proficient? | Attack      | Damage                        | Properties   |
-| --------------- | ----- | ---------------------------- | ------------------ | ----------- | ----------- | ----------------------------- | ------------ |
-| Mage Staff      | 1     | Melee Weapon Attack          | 1 Action           |             | 1d8 PhysFin | 3 Bludgeoning (2 + PhysPow 1) |              |
-|                 | 1     | 2-handed Melee Weapon Attack | 2 Actions          |             | 2d8 PhysFin | 3 Bludgeoning (2 + PhysPow 1) | 2-handed     |
-| -> Arcane Lance | 1     | Arcane Ranged Weapon Attack  | 1 Action, 1+ Magic | Y           | 2d10 MenFin | 3 * Magic + MenPow 3          | Range 10 sq. |
+| Item/Talent     | Action                       | Cost               | Proficient? | Attack       | Damage                        | Properties   |
+| --------------- | ---------------------------- | ------------------ | ----------- | ------------ | ----------------------------- | ------------ |
+| Mage Staff      | Melee Weapon Attack          | 1 Action           |             | 1d8 PhysFin  | 3 Bludgeoning (2 + PhysPow 1) |              |
+|                 | 2-handed Melee Weapon Attack | 1 Action           |             | 1d10 PhysFin | 4 Bludgeoning (2 + PhysPow 2) | 2-handed     |
+| -> Arcane Lance | Arcane Ranged Weapon Attack  | 1 Action, 1+ Magic | Y           | 2d10 MenFin  | 3 * Magic + MenPow 3          | Range 10 sq. |
 
 ## Defenses
 
-| Item/Talent | Speed | Action | Cost     | Proficient? | Defense     | Properties |
-| ----------- | ----- | ------ | -------- | ----------- | ----------- | ---------- |
-| Mage Staff  | 1     | Parry  | 1 Action |             | 1d4 PhysPow | Fragile    |
-| Dodge       | 1     | Dodge  | 1 Action |             | 1d6 PhysFin |            |
+| Item/Talent | Speed | Action | Proficient? | Defense     | Properties |
+| ----------- | ----- | ------ | ----------- | ----------- | ---------- |
+| Mage Staff  | 1     | Parry  |             | 1d4 PhysPow | Fragile    |
+| Dodge       | 1     | Dodge  |             | 1d6 PhysFin |            |
 
 ## Talents and Traits
 
