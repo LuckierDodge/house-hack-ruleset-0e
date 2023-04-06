@@ -18,21 +18,23 @@ Your Character Sheet will have a Characteristic Grid, which details your Charact
 
 | Characteristics | Power 0 | Finesse 2  | Resilience 1 |
 |-----------------|---------|------------|--------------|
-| Physical 0      | 0 (d2)  | 2 (d6)     | 1 (d4)       |
-| Mental 2        | 2 (d6)  | 4 (d10)    | 3 (d8)       |
-| Social 1        | 1 (d4)  | 3 (d8)     | 2 (d6)       |
+| Physical 0      | 0 (d1)  | 2 (d4)     | 1 (d2)       |
+| Mental 2        | 2 (d4)  | 4 (d8)     | 3 (d6)       |
+| Social 1        | 1 (d2)  | 3 (d6)     | 2 (d4)       |
 
 | Characteristic Value | Characteristic Die |
 | -------------------- | ------------------ |
-| 0                    | d2                 |
-| 1                    | d4                 |
-| 2                    | d6                 |
-| 3                    | d8                 |
-| 4                    | d10                |
-| 5                    | d12                |
-| 6                    | 2d8                |
-| 7                    | 2d10               |
-| 8                    | 2d12               |
+| 0                    | d1                 |
+| 1                    | d2                 |
+| 2                    | d4                 |
+| 3                    | d6                 |
+| 4                    | d8                 |
+| 5                    | d10                |
+| 6                    | d12                |
+| 7                    | d14 (d12 + d2)     |
+| 8                    | d16 (d12 + d4)     |
+| 9                    | d18 (d12 + d6)     |
+| 10                   | d20                |
 
 During **Contests**, each side rolls their corresponding **Characteristic Die** and compares values. The highest result wins.
 

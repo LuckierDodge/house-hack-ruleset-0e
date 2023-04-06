@@ -4,9 +4,9 @@
 
 | Characteristics | Power 0 | Finesse 1 | Resilience 2 |
 | --------------- | ------- | --------- | ------------ |
-| Physical 0      | 0 (d2)  | 1 (d4)    | 2 (d6)       |
-| Mental 1        | 1 (d4)  | 2 (d6)    | 3 (d8)       |
-| Social 2        | 2 (d6)  | 3 (d8)    | 4 (d10)      |
+| Physical 0      | 0 (d1)  | 1 (d2)    | 2 (d4)       |
+| Mental 1        | 1 (d2)  | 2 (d4)    | 3 (d6)       |
+| Social 2        | 2 (d4)  | 3 (d6)    | 4 (d8)       |
 
 | Stat                  | Value |
 | --------------------- | ----- |
@@ -27,31 +27,33 @@
 
 ## Attacks
 
-| Item/Talent | Action               | Cost     | Proficient? | Attack      | Damage                     | Properties             |
-| ----------- | -------------------- | -------- | ----------- | ----------- | -------------------------- | ---------------------- |
-| Short Bow   | Ranged Weapon Attack | 1 Action |             | 1d4 PhysFin | 3 Piercing (2 + PhysFin 1) | Range 5 sq, Ammunition |
+| Item/Talent | Action               | Cost     | Proficient? | Attack                   | Properties             |
+| ----------- | -------------------- | -------- | ----------- | ------------------------ | ---------------------- |
+| Short Bow   | Ranged Weapon Attack | 1 Action |             | 1d2 PhysFin + 2 Piercing | Range 5 sq, Ammunition |
 
 ## Miracles
 
-| Item/Talent        | Action                | Cost               | Effect                                                                                                                                                     |
-| ------------------ | --------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Divine Inspiration | Ranged Miracle Boon   | 1 Action, 1+ Favor | Roll 1d10 SocRes dice for each Favor invested. Allies who can hear you can replace a roll with one of your rolls. The roll is then removed from your pool. |
-| Healing Touch      | Touch Miracle Healing | 1 Action, 1+ Favor | Heal target MenFin 2 * Favor invested.                                                                                                                     |
+| Item/Talent        | Action                | Cost               | Effect                                                                                                                                                   |
+| ------------------ | --------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Divine Guidance    | Ranged Miracle Boon   | 1 Action, 1+ Favor | Roll d8 SocRes dice for each Favor invested. Allies who can hear you can replace a roll with one of your rolls. The roll is then removed from your pool. |
+| Healing Touch      | Touch Miracle Healing | 1 Action, 1+ Favor | Heal target MenFin 2 * Favor invested.                                                                                                                   |
 
 ## Defenses
 
 | Item/Talent | Action | Cost     | Proficient? | Defense     | Properties |
 | ----------- | ------ | -------- | ----------- | ----------- | ---------- |
-| Short Bow   | Parry  | 1 Action |             | 1d2 PhysPow | Fragile    |
-| Dodge       | Dodge  | 1 Action |             | 1d4 PhysFin |            |
+| Dodge       | Dodge  | 1 Action |             | 1d2 PhysFin |            |
+| Short Bow   | Parry  | 1 Action |             | 1d1 PhysPow | Fragile    |
 
 ## Talents and Traits
 
-* **Divine Inspiration**
+* **Divine Guidance**
 	* Miracle Ranged Boon
-	* When you use this Talent, roll 1d10 Social Resilience dice for each Favor invested
+	* When you use this Talent, roll d8 Social Resilience dice for each Favor invested
 	* Allies who can hear you can choose to replace one of their rolls with a roll from your pool, which is then discarded.
 * **Healing Hands**
 	* Miracle Touch Healing
 	* You can spend 1 action to heal an amount of Hit Points equal to your Mental Finesse times the amount of Favor invested
 	* Heal: 2 x Favor
+* **Light Armor Proficiency**
+	* You are proficient with light armor
