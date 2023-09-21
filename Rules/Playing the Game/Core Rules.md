@@ -25,7 +25,7 @@
 * Defenses: 10 + Characteristic
 ## Skills
 * Having Skill Ranks in a Skill grants a bonus to rolls related to that skill. At the end of each session, you can increase your Rank in a Skill used during that session by 1. You can't increase any single skill above your Player Level.
-* You can gain ranks in a number of skills equal to your Level + Wits.
+* You can gain ranks in a number of skills equal to your Level + the higher of Wits or Intuition.
 * Casting has 2 relevant Skill Ranks for each check: your overall Spellcasting, Channeling, or Psionics skill, respectively, and a skill for the specific type of magic, miracle, or power being harnessed (Fire, Illusions, Telepathy, Charms, etc). You must have at least one skill rank in a type of magic or power to cast that magic.
 * Similarly, Weapons have 2 relevant Skill Ranks for each check: a general Melee or Ranged Skill, and a specific Weapon Skill.
 ## Stamina

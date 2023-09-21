@@ -40,10 +40,11 @@
 	* Necrotic
 	* Divine
 ### Durability
-* 5 + Level + CON + WILL + Toughness Skill
+* 5 + Level + higher of CON or WILL + Toughness Skill
 ### Death's Door
-* If at 0 Durability or 10 Exhaustion, you are considered at Death's Door
-* Every time you take Damage or gain Exhaustion while at Death's Door, roll a DC10 CON save (unaffected by Exhaustion levels). On a failure, your character dies.
+* If at 0 Durability or 10 Exhaustion, you are considered at Death's Door. You can't move yourself more than 1 square per turn, can't Multitask, and you have disadvantage on all rolls (except Death's Door checks).
+* Death's Door Check: DC10 CON or WILL, whichever is higher.
+* Every time you take Damage or gain Exhaustion at Death's Door, roll a Death's Door Check. On your first failure, you fall unconscious (unable to move or take actions). On your second failure, you die.
 ## Initiative
 Each character acts in order of Agility. Ties are broken by opposing d20 roll.
 ## Actions
@@ -61,4 +62,4 @@ Each character acts in order of Agility. Ties are broken by opposing d20 roll.
 ### Attack
 * Make a weapon or spell attack against an enemy
 * Ranged or Melee
-###
+* Ranged attacks within 1 square are at disadvantage
