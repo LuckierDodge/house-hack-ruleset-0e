@@ -21,3 +21,21 @@
 	* Build-a-Combo, Talents that provide combo ingredients
 * Lifepath Char Creation
 * Build-a-Spell
+
+## AnyDice Formula
+
+[Link](https://anydice.com/program/2edef)
+
+```
+ATTACK_DICE: 2d6
+DEFENSE_DICE: 1d6
+ATTACK_BONUS: 2
+DEFENSE_BONUS: 0
+DR: 1
+DICE_RESULT: [highest of ([highest 1 of ATTACK_DICE] + ATTACK_BONUS - [highest 1 of DEFENSE_DICE] - DEFENSE_BONUS) and 0]
+function: minimumdamage NUMBER:n{
+ if NUMBER = 0 { result: 0 }
+ result: [highest of NUMBER - DR and 1]
+}
+output [minimumdamage DICE_RESULT]
+```

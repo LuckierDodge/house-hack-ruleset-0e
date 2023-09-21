@@ -13,35 +13,35 @@
 | Morale                | 7     |
 | Health                | 8     |
 | Stamina               | 4     |
-| Movement Speed        | 3     |
-| Damage Reduction (DR) | 4     |
+| Movement Speed        | 4     |
+| Damage Reduction (DR) | 3     |
 
 ## Equipment
 
 * **Longsword**
 * **Kite Shield**
 * **Chain Mail**
-	* DR 4
-	* -1 Move Speed
+	* d6 Armor Die
+	* -0 Move Speed (+1 from Proficiency)
 
 ## Attacks
 
-| Item/Talent | Action                       | Cost      | Proficient? | Attack                            | Properties |
-| ----------- | ---------------------------- | --------- | ----------- | --------------------------------- | ---------- |
-| Longsword   | Melee Weapon Attack          | 1 Action  | Y           | 2d4 PhysFin + 3 Piercing/Slashing |            |
-| -> All-in   | 2-handed Melee Weapon Attack | 1 Action	 | Y           | 2d6 PhysFin + 3 Piercing/Slashing | 2-handed   |
-| Kite Shield | Melee Weapon Attack          | 1 Action  |             | 2d8 PhysPow + 1 Bludgeoning       |            |
+| Item/Talent | Action                       | Cost     | Proficient? | Attack                      | Properties |
+| ----------- | ---------------------------- | -------- | ----------- | --------------------------- | ---------- |
+| Longsword   | Melee Weapon Attack          | 1 Action | Y           | 2d8 + 1d4 Piercing/Slashing |            |
+|             | 2-handed Melee Weapon Attack | 1 Action | Y           | 3d8 + 1d4 Piercing/Slashing | 2-handed   |
+| Kite Shield | Melee Weapon Attack          | 1 Action |             | 1d8 + 1d4 Bludgeoning       |            |
 
 ## Defenses
 
-| Item/Talent | Action | Cost     | Proficient? | Defense          | Properties |
-| ----------- | ------ | -------- | ----------- | ---------------- | ---------- |
-| Dodge       | Dodge  | 1 Action |             | 1d4 PhysFin      |            |
-| Longsword   | Parry  | 1 Action | Y           | 2d8 PhysPow      |            |
-| Kite Shield | Block  | 1 Action |             | 2d6 PhysRes + 2  |            |
+| Item/Talent | Action | Proficient? | Defense         | Properties |
+| ----------- | ------ | ----------- | --------------- | ---------- |
+| Dodge       | Dodge  |             | 1d4 + 1d6       |            |
+| Longsword   | Parry  | Y           | 2d8 + 1d6       |            |
+| Kite Shield | Block  |             | 1d8 + 1d4 + 1d6 |            |
 
 ## Talents and Traits
 
-* **Blade Proficiency**: You have proficiency on all checks when using Bladed Weapons
+* **Blade Proficiency 1**: You have d4 proficiency on all checks when using Bladed Weapons
 * **Medium Armor Proficiency**: You can wear Medium or Light Armor without Penalty.
-* **Shield Proficiency**: You have proficiency on all checks when using Shields.
+* **Shield Proficiency 1**: You have d4 Proficiency on all checks when using Shields.

@@ -31,11 +31,20 @@ Your Character Sheet will have a Characteristic Grid, which details your Charact
 | 4                    | d8                 |
 | 5                    | d10                |
 | 6                    | d12                |
-| 7                    | d14 (d12 + d2)     |
-| 8                    | d16 (d12 + d4)     |
-| 9                    | d18 (d12 + d6)     |
-| 10                   | d20                |
 
-During **Contests**, each side rolls their corresponding **Characteristic Die** and compares values. The highest result wins.
+When your character is **Tested**, you make a roll and compare it to the **Test Difficulty** determined by the GM. If your are in a **Contest**, you each roll and compare results to determine the outcome.
 
-During **Tests**, the Character being tested rolls 1d20 and adds their **Characteristic Value**. The result is compared against a **Test Difficulty** to determine success.
+`Test Result = Characteristic Die + Circumstance Die`
+
+## Characteristic Die
+
+The size of this Die is determined by the Characteristic being tested.
+
+## Circumstance Die
+
+* The size of this die is determined by the circumstances. Advantages, Disadvantages, Tools, Traits, and Proficiencies all contribute to the size of this die.
+* By default, this die is a d6.
+
+## Advantage and Disadvantage
+
+Some abilities, effects, or circumstances might affect how likely a character is to succeed on a given test. These affects grant either **Advantage** or **Disadvantage**. **Advantage** allows you to increase the Circumstance die being rolled one step on the Dice Ladder, while **Disadvantage** requires you to decrease the Circumstance die one step down the Die Ladder. **Advantage** and **Disadvantage** stack with themselves and cancel each other out.
