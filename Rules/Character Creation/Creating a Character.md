@@ -19,7 +19,9 @@
 TODO
 ## 3. Choose a Background
 TODO
-## 4. Choose Starting Talent
-Select one talent from a Talent Tree available based on your Class, Background, and Ancestry choices.
-## Choose Starting Equipment
+## 4. Choose a Destiny
+TODO
+## 5. Choose Starting Talent
+Select one talent from a Talent Tree available based on your Class, Background, Destiny, and Ancestry choices.
+## 6. Choose Starting Equipment
 TODO

@@ -31,7 +31,7 @@
 ## Stamina
 * You have an amount of maximum Stamina equal to 2 * Level
 * Stamina is spent during Adventures and regained during Interludes, representing the accumulating stress, wear, and tear of journeying beyond safety and comfort and facing off against what lies beyond.
-* You can regain 1 Stamina or remove 1 level of Exhaustion per full night's rest.
+* You can regain 1 Stamina or remove 1 level of Exhaustion per full night's rest, and recover all Stamina between Adventures.
 * Stamina has two uses:
 	* Stamina can be consumed to recover Durability outside of combat.
 	* Stamina can be spent to gain the benefits of certain Talents, and to cast Spells, channel Miracles, or manifest Powers
