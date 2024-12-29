@@ -43,9 +43,12 @@ Characters have a Luck score, which they can elect to use in place of another Ch
 ## Negotiation and Persuasion
 
 * When you are attempting to persuade someone or negotiate with another Character, you choose an Argument, either Logos, Pathos, or Ethos.
+	* Logos: attempting to win the Character over with reason or logic.
+	* Pathos: attempting to win the Character over by appealing to their emotions.
+	* Ethos: attempting to win the Character over by pulling rank or asserting moral or expert authority
 * This determines the Characteristic used when you make your Test, and the Characteristic used by the other Character to Defend.
 * You may add a relevant Skill rank, depending on your approach
-	* For instance, you can add Deception if lying or manipulating, or Intimidation if appropriate.
+	* For instance, you can add Deception if lying or manipulating, or Intimidation if attempting to, well, intimidate them.
 * The GM sets 3 numbers: Difficulty, Progress, and Patience.
 	* Difficulty (1 to 3): how much Progress is needed before the target is convinced.
 	* Progress (typically starts at 0): how convinced the target is or isn't. Can be started at negative or positive depending on the targets receptiveness.
@@ -56,11 +59,11 @@ Characters have a Luck score, which they can elect to use in place of another Ch
 	* Negotiating Mercy from an Evil Dragon: Difficulty 3, Patience 1
 	* Negotiating favorable terms in a Trade Deal with the Ambassadors of a self-interested kingdom: Difficulty 3, Patience 3
 
-| Argument            | Your Characteristic | Their Defense |
-| ------------------- | ------------------- | ------------- |
-| Logos (Reason)      | Wits                | Wits          |
-| Pathos (Emotion)    | Will                | Will          |
-| Ethos (Credibility) | Reputation          | Wits or Will  |
+| Argument                   | Characteristic |
+| -------------------------- | -------------- |
+| Logos (Reason)             | Wits           |
+| Pathos (Emotion)           | Will           |
+| Ethos (Credibility/Ethics) | Reputation     |
 
 | Your Roll | Target Roll | Outcome                          |
 | --------- | ----------- | -------------------------------- |
