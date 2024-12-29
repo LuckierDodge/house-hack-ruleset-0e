@@ -10,7 +10,6 @@
 ## Subsequent Levels
 
 * Gain 1 Martial Skill Rank
-* Gain a Talent from the Warrior Talent Trees
 
 ## Warrior Talent Trees
 

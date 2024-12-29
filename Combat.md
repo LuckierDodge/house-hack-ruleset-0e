@@ -38,9 +38,9 @@
 
 ## Health, Stamina, and Reserves
 
-* You have a Health Pool equal to your Hit Die + Vigor (Minimum 1).
-* You have a Stamina Pool equal to your Level + Vigor + Will (Minimum 1).
-* You have Reserves equal to your Level + Vigor + Will (Minimum 1).
+* Characters start with a Health Pool equal to their Hit Die + Vigor (Minimum 1).
+* You have a Stamina Pool equal to 1 + Vigor + Will (Minimum 1).
+* You have Reserves equal to your 1 + Vigor + Will (Minimum 1).
 * Stamina can be spent at any time to gain the benefits of certain Talents.
 	* Stamina and Health can be negative. Each negative point of Health or Stamina applies a level of Exhaustion (-1 to all rolls and defenses for each level, other than Death's Door Checks, see below).
 	* At 5 Exhaustion, your character is at Death's Door.

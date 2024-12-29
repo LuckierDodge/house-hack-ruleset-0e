@@ -17,13 +17,11 @@
 	* Slings
 * Unarmed Combat
 	* Unarmed Strikes
-	* Grappling
-	* Tripping
-	* Disarming
-* Armor
+	* Grappling (Grabs, Trips, Throws)
+* Armor (improves the armor level you can take advantage of)
 * Dodging
 * Parrying
-* Toughness
+* Toughness (increases HP)
 
 ## Supernatural Skills
 
@@ -69,16 +67,14 @@
 * Nature (Wits)
 	* Handle Animal (Finesse)
 	* Herbalism
-- Perception
-	- Seeing
-	- Hearing
-	- Smelling
-	- Tasting
-	- 
-* Persuasion (Will)
+* Perception (Wits)
+	* Seeing
+	* Hearing
+	* Taste/Smell
+* Argument (Will)
 	* Deception
 	* Diplomacy
-	* Intimidation (Vigor)
+	* Intimidation
 * Profession/Craft (Wits/Finesse)
 * Ranging (Wits)
 	* Orienteering
@@ -86,7 +82,7 @@
 	* Tracking
 	* Hiking (Vigor)
 * Speed (Agility)
-* Stealth (Finesse)
+* Skullduggery (Finesse)
 	* Sneaking
 	* Hiding
 	* Sleight of Hand

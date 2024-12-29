@@ -11,7 +11,6 @@
 ## Subsequent Levels
 
 * Gain 1 Supernatural Skill Rank
-* Gain 1 Talent from a Caster Talent Tree
 
 ## Subclasses
 
@@ -37,7 +36,7 @@ _Your own Aether reserves can be supplemented with the innate magic of powerful 
 
 ### Chosen
 
-_You have been touched by Divinity itself, selected for a higher purpose. Your patron Deity rewards your piety and with miracles, but expects devotion and service in turn._
+_You have been touched by Divinity itself, selected for a higher purpose. Your patron Deity rewards your piety with miracles, but expects devotion and service in turn._
 
 * Prereq: Will >= 1
 * Skill: You gain a rank in Miracleworking.

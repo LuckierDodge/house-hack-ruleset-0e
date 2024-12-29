@@ -1,4 +1,4 @@
-# house-hack-ruleset-0e
+# House Hack 0e
 
 A hacked together ruleset for running your own Fantasy RPG, presented without warranty. Use at your own risk!
 

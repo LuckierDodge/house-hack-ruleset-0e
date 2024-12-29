@@ -9,8 +9,7 @@
 
 ## Subsequent Levels
 
-* Gain 2 Martial Skill Ranks
-* Gain a Talent from one of the Master Talent Trees
+* Gain 1 General Skill Rank
 
 ## Master Talent Trees
 
